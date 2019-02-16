@@ -60,7 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\PlayerController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/jackwright/Desktop/GameJam2019/GameJam2019-CrookedHornProductions/GameJam2019/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
